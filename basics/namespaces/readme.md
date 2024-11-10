@@ -1,13 +1,13 @@
-# Namespace 
+# Namespace
 
 Namespace provide the space where we can define or declare identifier i.e. variable,  method, classes.
 Using namespace, you can define the space or context in which identifiers are defined i.e. variable, method, classes. In essence, a namespace defines a scope.
 
-## Defining a Namespace:
+## Defining a Namespace
 
 A namespace definition begins with the keyword namespace followed by the namespace name as follows:
 
-```
+```cpp
 namespace  namespace_name 
 {
     // code declarations i.e. variable  (int a;)
@@ -31,6 +31,7 @@ namespace ContosoData
     void Func(ObjectManager) {}
 }
 ```
+
 Use the fully qualified name:
 
 ```cpp
