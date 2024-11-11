@@ -1,7 +1,8 @@
 #include<iostream>
 
 #define MAX 100
-#define BANKNAME "COLLO"
+#define BANKNAME "KIPCOLLO"
+
 int main(){
 
     const float PI=3.14;
